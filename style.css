@@ -38,6 +38,7 @@ background:radial-gradient(circle at 50% 36%,var(--c2) 0 17%,transparent 17.6%),
 .cover.ph span{font-weight:700;font-size:1.05rem;line-height:1.2}
 .cover.ph small{font:.8rem var(--sans);opacity:.85}
 .cover.big{max-width:15rem}
+img.cover{height:auto;aspect-ratio:auto}
 .btn{display:inline-block;background:var(--btn);color:var(--btnfg);padding:.7rem 1.3rem;border:2px solid transparent;border-radius:2px;text-decoration:none;font:700 .95rem var(--sans);cursor:pointer}
 .btn:hover{filter:brightness(1.12)}
 .btn.alt{background:transparent;color:var(--fg);border-color:var(--fg)}
